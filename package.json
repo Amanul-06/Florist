@@ -1,0 +1,14 @@
+{
+  "name": "florist-shop-management",
+  "version": "1.0.0",
+  "description": "Florist Shop Management System for Admin/Owner",
+  "scripts": {
+    "dev": "node dev.js",
+    "server": "cd server && npm run dev",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  },
+  "keywords": ["florist", "management", "daily-cost", "project-costing"],
+  "author": "",
+  "license": "ISC"
+}
