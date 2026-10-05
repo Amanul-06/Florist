@@ -6,9 +6,15 @@
     "dev": "node dev.js",
     "server": "cd server && npm run dev",
     "client": "cd client && npm run dev",
-    "build": "cd client && npm run build"
+    "build": "cd client && npm run build",
+    "start": "node server/src/server.js"
   },
-  "keywords": ["florist", "management", "daily-cost", "project-costing"],
+  "keywords": [
+    "florist",
+    "management",
+    "daily-cost",
+    "project-costing"
+  ],
   "author": "",
   "license": "ISC"
 }
